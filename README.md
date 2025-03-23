@@ -37,7 +37,6 @@ You can connect with me on the following platforms:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasithhansaka&show_icons=true&count_private=true&theme=radical&bg_color=61DAFB&text_color=000000&icon_color=000000&title_color=000000)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasithhansaka&theme=radical&hide_border=true&background=61DAFB&text_color=000000&icon_color=000000&title_color=000000)
 
 
 ## 🔧 Let's Connect!
