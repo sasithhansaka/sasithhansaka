@@ -10,12 +10,10 @@ You can connect with me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/sasith-hansaka/)
 - [Medium](https://github.com/sasithhansaka)
-
+- [HackeRank](https://www.hackerrank.com/profile/sasithhansaka285)
 
 ## 💻 Tech Stack
-
-Here are the technologies I work with:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,19 +33,15 @@ Here are the technologies I work with:
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
+
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasithhansaka&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasithhansaka&show_icons=true&count_private=true&theme=radical&bg_color=61DAFB&text_color=000000&icon_color=000000&title_color=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasithhansaka&theme=radical&hide_border=true&background=61DAFB&text_color=000000&icon_color=000000&title_color=000000)
 
-## 📂 Projects
-
-Here are some of my notable projects:
-
-- **[Nextrend Clothing](https://github.com/[your-github-username]/nextrend-clothing)**: E-commerce platform built with React, Spring Boot, SQL, Firebase, and MongoDB.
-- **[Pet Care Center Booking App](https://github.com/[your-github-username]/pet-care-center-booking)**: A desktop application using Java Swing and MySQL for managing pet care services.
-- **[MedicPack Web with IoT](https://github.com/[your-github-username]/medicpack-web)**: A medicine dispenser system built with ESP32, Firebase, and a web interface.
-- **[E-commerce Website for Selling Hydration Drinks and Chocolates](https://github.com/[your-github-username]/e-commerce-hydration-chocolates)**: A fully functional e-commerce website built with PHP, HTML, JavaScript, and MySQL.
 
 ## 🔧 Let's Connect!
-
 Feel free to reach out to me through my socials or open an issue if you'd like to collaborate or ask questions!
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=sasithhansaka&color=000000&label=Profile%20Views&style=flat&bg_color=61DAFB)
+
