@@ -1,17 +1,7 @@
 
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Sasith Hansaka
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with expertise in building dynamic web, mobile, and desktop applications. I specialize in React, Spring Boot, Kotlin, and more. Feel free to explore my repositories and check out my projects!
-
----
-
-## 📝 About Me
-
-- 💻 I’m currently working on a variety of projects including web development, mobile apps, and IoT-based solutions.
-- 🌱 I’m continuously learning and exploring new technologies to enhance my skills.
-- 🎯 My goal is to develop innovative solutions using modern web technologies and machine learning.
-
----
+Welcome to my GitHub profile! I am a software engineering undergraduate with a strong foundation in both front-end and back-end development. I specialize in technologies such as React.js, Spring Boot, Express and modern web development frameworks, and I have experience creating innovative, scalable, and efficient web, desktop, and mobile applications. I am always eager to expand my skill set and contribute to cutting-edge software development projects.
 
 ## 🌐 Socials
 
@@ -37,13 +27,13 @@ Here are the technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[sasithhansaka]&show_icons=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasithhansaka&show_icons=true&count_private=true&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[sasithhansaka]&theme=dark)
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sasithhansaka&theme=dark)
 
 ---
 
