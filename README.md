@@ -37,13 +37,13 @@ Here are the technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[sasithhansaka]&show_icons=true&count_private=true&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[your-github-username]&theme=dark)
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[sasithhansaka]&theme=dark)
 
 ---
 
