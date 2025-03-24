@@ -36,11 +36,10 @@ You can connect with me on the following platforms:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasithhansaka&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasithhansaka&show_icons=true&count_private=true&bg_color=0D1117&border_color=ffffff&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 
 ## 🔧 Let's Connect!
 Feel free to reach out to me through my socials or open an issue if you'd like to collaborate or ask questions!
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=sasithhansaka&color=000000&label=Profile%20Views&style=flat&bg_color=61DAFB)
 
