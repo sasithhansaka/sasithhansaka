@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a software engineering undergraduate with a s
 You can connect with me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/sasith-hansaka/)
-- [Medium](https://github.com/sasithhansaka)
+- [Medium](https://medium.com/@sasithhansaka285)
 - [HackeRank](https://www.hackerrank.com/profile/sasithhansaka285)
 
 ## 💻 Tech Stack
